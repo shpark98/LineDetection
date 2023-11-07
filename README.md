@@ -1,5 +1,2 @@
 # LineDetection
 
-
-
-**Hough Transform**
